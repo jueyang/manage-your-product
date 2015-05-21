@@ -8,3 +8,10 @@ This is a repository for the Product Management class for the Social Journalism 
 - [Class Goals](https://github.com/jueyang/manage-your-product/wiki/Goals)
 - [Class Syllabus](https://github.com/jueyang/manage-your-product/wiki/Syllabus)
 - [Your role(s) in this class](https://github.com/jueyang/manage-your-product/wiki/Roles)
+
+## Brief timeline
+
+![](http://i.imgur.com/cEtEriv.png)
+
+See details in [syllaubs](https://github.com/jueyang/manage-your-product/wiki/Syllabus).
+
