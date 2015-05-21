@@ -13,5 +13,5 @@ This is a repository for the Product Management class for the Social Journalism 
 
 ![](http://i.imgur.com/cEtEriv.png)
 
-See details in [syllaubs](https://github.com/jueyang/manage-your-product/wiki/Syllabus).
+See details in [syllabus](https://github.com/jueyang/manage-your-product/wiki/Syllabus).
 
