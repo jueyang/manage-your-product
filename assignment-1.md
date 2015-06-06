@@ -1,4 +1,4 @@
-## Persona and Journey
+## Persona and User Story
 
 You have been working with your community and identified a need they have. To help you make design decisions for your product, it's helpful to imagine (or, partially test your product on paper) how your product would actually work for your community.
 
