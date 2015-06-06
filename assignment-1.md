@@ -4,7 +4,7 @@ You have been working with your community and identified a need they have. To he
 
 To do this, we are borrowing a design method from service design called **persona**. The personas are archetypes built after an exhaustive observation of the potential users. While persona is fictional in a more traditional design process, it will be a real person from the community in your case.
 
-## Deliverable
+## Deliverables
 
 1. Write up a few paragraphs about how your persona would use your product. Describe:
   - their social/demographic background; their story, if you will
