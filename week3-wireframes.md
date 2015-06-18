@@ -54,12 +54,19 @@
 
 *= Probably not in the scope -- an enhancement, nevertheless.
 
-## How
+## How to wireframe
 
-It works because it helps you think.
+### It works because it helps you think --
+
+Choose the tool that works best for you.
 
 ![](https://i.imgur.com/AJwMh9M.jpg)
 
-## Write your copy!
+- https://wireframe.cc/
+- https://balsamiq.com/ (intentionally low-fi)
+- pen, paper, a phone
+- [pen, paper, a fake phone](https://dribbble.com/shots/974256-ironPhone-custom-made-sketch-preview-tool/attachments/112502)
 
-https://gist.github.com/JuliaJRH/b509257f151fc988ab66
+### Write your copy!
+
+Kudos -- https://gist.github.com/JuliaJRH/b509257f151fc988ab66
