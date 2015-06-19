@@ -28,13 +28,17 @@ The wireframes you make will be the base of our review next week. Make them so t
 
 Fork the scope template and edit with your content under each category:
 
-https://gist.github.com/jueyang/fb98ee1bceb6101fc16d)
+https://gist.github.com/jueyang/fb98ee1bceb6101fc16d
 
 (The fork button is on the top-right.)
 
-Read the instructions in the template. We will further workshop your scope in the review.
+Read the instructions in the template.
 
 ## How to deliver
+
+For wireframes et al, We will further workshop your wireframe and scope in the review during class next week. Bring all materials to class.
+
+For the scope template, please send the gist link in the #assignment-2 channel in Slack. **This is due before late night on Monday, June 22.**
 
 ## Tips on creating wireframes
 
