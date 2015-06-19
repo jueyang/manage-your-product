@@ -37,7 +37,7 @@ Read the instructions in the template.
 
 ## How to deliver
 
-For wireframes et al, We will further workshop your wireframe and scope in the review during class next week. Bring all materials to class.
+For wireframes/paper prototypes/diagrams, we will further workshop them in the review during class next week. Bring all materials to class.
 
 For the scope template, please send the gist link in the #assignment-2 channel in Slack. **This is due before late night on Monday, June 22.**
 
