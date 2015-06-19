@@ -23,6 +23,7 @@ The wireframes you make will be the base of our review next week. Make them so t
 
 - the stakeholders involved in your product (including yourself)
 - the information flow between the different stakeholders
+- the platforms/tools used in the information flow
 
 ### Scope
 
