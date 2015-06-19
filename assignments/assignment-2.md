@@ -5,7 +5,7 @@ For this assignment, you will:
 1. create a set of detailed wireframes (and, for some of you, a user journey diagram) based on our latest round of discussion, and
 2. write up a product scope.
 
-Use what you learned from the [lecture this week](https://github.com/jueyang/manage-your-product/blob/master/week3-wireframes.md), convey the three aspects of your product:
+Use what you learned from the [lecture this week](https://github.com/jueyang/manage-your-product/blob/master/week3-wireframes.md), convey three aspects of your product:
 
 - the architecture and depth of your site
 - the layout of the site
