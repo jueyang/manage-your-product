@@ -13,7 +13,7 @@ Use what you learned from the [lecture this week](https://github.com/jueyang/man
 
 ## Deliverables
 
-### Wireframes/paper prototype
+### Part 1: Wireframes/paper prototype
 
 Use whatever tool that suits your needs. Unlike the sketch-y diagram you did last time, this set of wireframes should be legible, and contain visual/text explanations where you see fit.
 
@@ -25,7 +25,7 @@ The wireframes you make will be the base of our review next week. Make them so t
 - the information flow between the different stakeholders
 - the platforms/tools used in the information flow
 
-### Scope
+### Part 2: Scope
 
 Fork the scope template and edit with your content under each category:
 
