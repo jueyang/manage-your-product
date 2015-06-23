@@ -24,7 +24,7 @@ https://guides.github.com/features/issues/
 
 ### Next actions
 
-eg. Bob adds two datasets (ref #12) to Slack channel.
+eg. Bob adds two datasets (ref #12) to Slack data channel.
 
 ## Practice
 
