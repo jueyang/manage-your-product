@@ -20,7 +20,7 @@ https://guides.github.com/features/issues/
 
 ### Features, requests, bugs
 
-https://gist.github.com/jueyang/84d2ff7643517e054e13
+[who's who](https://gist.github.com/jueyang/84d2ff7643517e054e13)
 
 ### Next actions
 
