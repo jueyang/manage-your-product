@@ -1,5 +1,3 @@
-![](http://media.giphy.com/media/FNKr7naceO3tu/giphy.gif)
-
 We will be using GitHub issues to manage your product. The issues are where you keep track of the items you developed in your product scope.
 
 ## The anatomy of an issue
@@ -17,6 +15,8 @@ https://guides.github.com/features/issues/
 ![](https://guides.github.com/features/issues/markdown-example.png)
 
 ## Clarity
+
+![](http://media.giphy.com/media/FNKr7naceO3tu/giphy.gif)
 
 ### Features, requests, bugs
 
