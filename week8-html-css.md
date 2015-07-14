@@ -1,10 +1,16 @@
 ## Have you done it?
 
 https://www.codecademy.com/en/skills/make-a-website
+https://www.codecademy.com/en/skills/make-a-website
+https://www.codecademy.com/en/skills/make-a-website
+https://www.codecademy.com/en/skills/make-a-website
+https://www.codecademy.com/en/skills/make-a-website
+
 
 ## The site is a building
 
 ![](https://soma.sbcc.edu/users/ajarabo/intro_Multimedia/images/CSS/CSS_html_metaphor.gif)
+
 _[source](https://soma.sbcc.edu/users/ajarabo/intro_Multimedia/what_is_CSS.htm)_ 
 
 ## The content is a box
