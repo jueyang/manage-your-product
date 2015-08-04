@@ -23,3 +23,9 @@ You will have 5 minutes to present and 2 mintues of Q&A. For those of you who ha
 - You make it possible for people to focus. (Remember there are 14 of you!)
 
 Once everyone finishes their main demo, you can discuss uncovered topics of your product in a more relaxed atmosphere with the rest of the class and guests.
+
+## Peer rating
+
+You will be rating both the presentation and the product of your peers. Fork this [gist](https://gist.github.com/jueyang/8a5ef44df49c48cb276e) and fill in the fields. You will DM me your gist by the end of this Friday (Aug 7). Whether or not you make the gist public/private is up to you!
+
+![](http://media.giphy.com/media/E4EhibkxIt7YA/giphy.gif)
