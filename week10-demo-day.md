@@ -26,6 +26,6 @@ Once everyone finishes their main demo, you can discuss uncovered topics of your
 
 ## Peer rating
 
-You will be rating both the presentation and the product of your peers. Fork this [gist](https://gist.github.com/jueyang/8a5ef44df49c48cb276e) and fill in the fields. You will DM me your gist by the end of this Friday (Aug 7). Whether or not you make the gist public/private is up to you!
+You will be rating both the presentation and the product of your peers. **Fork this [gist](https://gist.github.com/jueyang/8a5ef44df49c48cb276e)** and fill in the fields. You will DM me your gist by the end of this Friday (Aug 7). Whether or not you make the gist public/private is up to you!
 
 ![](http://media.giphy.com/media/E4EhibkxIt7YA/giphy.gif)
