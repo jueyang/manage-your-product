@@ -14,7 +14,7 @@ https://gist.github.com/jueyang/16a2dcd488782e863a23
 
 Include a `README.md` in the prodominant branch. (For example, if you are hosting on `gh-pages`, include the `README.md` there.)
 
-The `README.md` serves as an introduction of your product to potential collaborators. It should briefly describe what the product is and what technology/data is used.*
+The `README.md` serves as an introduction of your product to potential collaborators. It should briefly describe what the product is and what technology/data is used.* To see an example, check out the [Quartz Chartbuilder `README.md`](https://github.com/Quartz/Chartbuilder#chartbuilder-chart_with_upwards_trend).
 
 If you have done data-related work, a specific log of how you procured and manipulated the data will be very useful. Unclear data sources and processes will reduce the creidibility of the product and make it harder for others to contribute.
 
