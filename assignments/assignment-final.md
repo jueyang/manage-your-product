@@ -12,7 +12,7 @@ https://gist.github.com/jueyang/16a2dcd488782e863a23
 
 ### Recommended actions if you are using a github repo for your product
 
-Include a `README.md` in the prodominant branch. (For example, if you are hosting on `gh-pages`, include the `README.md` there.)
+Include a `README.md` in the predominant branch. (For example, if you are hosting on `gh-pages`, include the `README.md` there.)
 
 The `README.md` serves as an introduction of your product to potential collaborators. It should briefly describe what the product is and what technology/data is used.* To see an example, check out the [Quartz Chartbuilder `README.md`](https://github.com/Quartz/Chartbuilder#chartbuilder-chart_with_upwards_trend).
 
